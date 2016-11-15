@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoDict", "DemoDict\DemoDi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoMemory", "..\DemoMemory\DemoMemory.csproj", "{ED4192A1-3F7A-4EBB-8101-56A27D8879BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoEnums", "..\DemoEnums\DemoEnums.csproj", "{16B57791-4944-4344-9470-E267B4352A52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{ED4192A1-3F7A-4EBB-8101-56A27D8879BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED4192A1-3F7A-4EBB-8101-56A27D8879BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED4192A1-3F7A-4EBB-8101-56A27D8879BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16B57791-4944-4344-9470-E267B4352A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B57791-4944-4344-9470-E267B4352A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B57791-4944-4344-9470-E267B4352A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B57791-4944-4344-9470-E267B4352A52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
