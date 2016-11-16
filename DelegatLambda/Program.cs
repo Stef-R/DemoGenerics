@@ -28,7 +28,7 @@ namespace DelegatLambda
 
         }
     }
-    class Specie
+    public class Specie
     {
         private string name;
         private int numbersOfEyes;
@@ -45,7 +45,7 @@ namespace DelegatLambda
             this.numbersOfLegs = numbersOfLegs;
         }
     }
-    class Pet
+    public class Pet
     {
         private Specie spicie;
         private string name;
@@ -60,7 +60,7 @@ namespace DelegatLambda
         }
     }
 
-    class Person : INotifyPropertyChanged
+    public class Person : INotifyPropertyChanged
     {
         private string name;
         private int yearBorn;
