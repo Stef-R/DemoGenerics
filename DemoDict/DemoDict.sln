@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extentions", "..\Extentions
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swapGenericList", "..\swapGenericList\swapGenericList.csproj", "{F8D894A2-D64B-434C-A664-3EE0450102F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatLambda", "..\DelegatLambda\DelegatLambda.csproj", "{73D75F2F-EAC7-4DEF-9AA5-C2159545B5C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F8D894A2-D64B-434C-A664-3EE0450102F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8D894A2-D64B-434C-A664-3EE0450102F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8D894A2-D64B-434C-A664-3EE0450102F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D75F2F-EAC7-4DEF-9AA5-C2159545B5C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D75F2F-EAC7-4DEF-9AA5-C2159545B5C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D75F2F-EAC7-4DEF-9AA5-C2159545B5C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D75F2F-EAC7-4DEF-9AA5-C2159545B5C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
